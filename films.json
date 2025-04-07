@@ -1,0 +1,28 @@
+{
+    "films": [
+        {
+            "titre": "Traitors of Time",
+            "annee": "2025",
+            "description": "Un thriller palpitant sur la trahison à travers les âges.",
+            "poster": "https://via.placeholder.com/250x350.png?text=Traitors+of+Time"
+        },
+        {
+            "titre": "L'Écho des Ombres",
+            "annee": "2024",
+            "description": "Un mystère sombre dans un cinéma abandonné.",
+            "poster": "https://via.placeholder.com/250x350.png?text=Echo+des+Ombres"
+        },
+        {
+            "titre": "PMFA: La Révélation",
+            "annee": "2023",
+            "description": "L'origine secrète des traîtres.",
+            "poster": "https://via.placeholder.com/250x350.png?text=PMFA+Revelation"
+        },
+        {
+            "titre": "Minekampf",
+            "annee": "2025",
+            "description": "Une épopée cubique où Alex et son équipe affrontent l'Ender Dragon et une armée de Creepers dans un monde au bord du chaos.",
+            "poster": "Baba.png"
+        }
+    ]
+}
